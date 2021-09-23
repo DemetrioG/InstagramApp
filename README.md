@@ -1,4 +1,4 @@
-# InstagramApp
+# InstagramApp (React Native)
 
 Repositório criado para testar conhecimentos em React Native, recriando o Front do Instagram.
 
